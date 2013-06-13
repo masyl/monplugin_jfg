@@ -1,15 +1,15 @@
 ﻿{
-    "name": "monplugin_jfg",
+    "name": "nurunworkshop.monplugin_jfg",
     "title": "monplugin_jfg",
-    "version": "2.1.2",
+    "version": "0.1.0",
     "author": {
-        "name": "jQuery Foundation and other contributors",
+        "name": "JF Gratton",
         "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
     },
     "maintainers": [
         {
             "name": "Corey Frang",
-            "email": "gnarf37@gmail.com",
+            "email": "jean.francois.gratton@gmail.com",
             "url": "http://gnarf.net"
         }
     ],
