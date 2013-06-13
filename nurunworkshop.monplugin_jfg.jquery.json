@@ -6,9 +6,14 @@
         "name": "JF Gratton",
         "url": "https://github.com/jquery/jquery-color/blob/2.1.2/AUTHORS.txt"
     },
+    "keywords": [
+        "nurun",
+        "formation",
+        "tutoriel"
+    ],
     "maintainers": [
         {
-            "name": "Corey Frang",
+            "name": "JFG",
             "email": "jean.francois.gratton@gmail.com",
             "url": "http://gnarf.net"
         }
